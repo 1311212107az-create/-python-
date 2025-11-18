@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # 替换为你的评教系统URL
-url = "https://newes.chaoxing.com/pj/frontv2/whatIEvaluatedDetails?_CP_=pj&questionnaireId=1199579864&title=%E4%B8%93%E7%A7%91%E5%B1%82%E6%AC%A1%E8%AF%84%E5%AD%A6%E9%97%AE%E5%8D%B7&evaluateObjType=1&questionnaireType=2&sendType=18&hasFinished=0&questionnaireStatus=0&showCourseProfile=0&isShowTeacherPhoto=0&alreadyType=6"
+url = " "
 # 替换为你的用户名和密码
 phone = "your_phone"
 pwd = "your_password"

@@ -41,7 +41,7 @@ wait.until(EC.element_to_be_clickable(
 print("已切换为“未评”")
 
 
-import time
+
 
 while True:
     # 1. 点第一行评价
